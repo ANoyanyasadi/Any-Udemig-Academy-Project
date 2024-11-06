@@ -3,15 +3,15 @@
 
 
 
-# Udemig Academy Web Sitesi, HTML, CSS, kullanılarak hazırlanmıştır. 
+ Udemig Academy Web Sitesi, HTML, CSS, kullanılarak hazırlanmıştır. 
 
 
 
-# Technologies Used: 
+ Technologies Used: 
 
-# • HTML5, 
+ • HTML5, 
 
-# • CSS,
+ • CSS,
 
 
 
